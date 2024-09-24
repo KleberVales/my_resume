@@ -5,7 +5,8 @@ I am hold certifications in java (Oracle) and Software Development Fundamentals 
 around 4 years of experience as a systems developer, you have developed expertise in designing and \
 building software solutions.
 
-|Contact              | Experience      |
+|Contact              | Education       |
 |---------------------|-----------------|
-|ksd.campos@gmail.com |                 |
+|ksd.campos@gmail.com | Bachelor's Degree in Computer Science  |
 |13988362352          |                 |
+|São Paulo, SP, Brazil|                 |
