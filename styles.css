@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    max-width: 900px;
+    height: 1000px;
+    margin: auto;
+    background: #F8F8FF;
+    padding: 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#cabecalho{
+    height: 100px;
+    padding: 0;
+    margin: 0;
+}
+.sobre{
+    height: 100px;
+    padding: 0;
+    margin: 0;
+}
+.contato, .tecnologia, .cursos{
+    width: 250px;
+   
+}
+.contato{
+    background: #C0C0C0;
+}
+.contato, li{
+    list-style-type: none;
+}
+.experiencia, .formacao{
+    width: 640px;
+    
+}
+.side{
+    display: inline-table;
+    height: 750px;
+    padding: 0;
+    margin: 0;
+}
+.rodape{
+    height: 50px;
+    padding: 0;
+    margin: 0;
+}
