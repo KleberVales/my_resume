@@ -20,7 +20,7 @@
     padding-top: 10px;
 }
 .sobre{
-    height: 100px;
+    height: 200px;
     padding: 0;
     margin: 0;
 }
@@ -54,7 +54,7 @@
 }
 .side{
     display: inline-table;
-    height: 650px;
+    height: 550px;
     padding: 0;
     margin: 0;
 }
