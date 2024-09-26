@@ -54,12 +54,12 @@
 }
 .side{
     display: inline-table;
-    height: 750px;
+    height: 650px;
     padding: 0;
     margin: 0;
 }
 .rodape{
-    bottom: 0; 
-    left: 0; 
-    z-index: 10;
+    height: 100px;
+    padding: 0;
+    margin: 0;
 }
