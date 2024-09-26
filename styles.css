@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 #container{
-    max-width: 900px;
+    max-width: 800px;
     height: 1000px;
     margin: auto;
     background: #F8F8FF;
-    padding: 0px;
+    padding: 75px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 #cabecalho{
@@ -16,13 +16,20 @@
     padding: 0;
     margin: 0;
 }
+#cabecalho, .profissao{
+    padding-top: 10px;
+}
 .sobre{
     height: 100px;
     padding: 0;
     margin: 0;
 }
+.sobre, p{
+    text-align: justify;
+}
 .contato, .tecnologia, .cursos{
-    width: 250px;
+    width: 200px;
+    margin-right: 20px;
    
 }
 .contato{
@@ -36,8 +43,13 @@
     margin-top: 20px;
     margin-bottom: 10px;
 }
-.experiencia, .formacao{
-    width: 640px;
+.experiencia, .formacao, .certificacoes{
+    width: 420px;
+    padding-top: 10px;
+    
+}
+.experiencia, .formacao, .certificacoes, h3{
+    padding-top: 10px;
     
 }
 .side{
@@ -47,7 +59,7 @@
     margin: 0;
 }
 .rodape{
-    height: 50px;
-    padding: 0;
-    margin: 0;
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
 }
