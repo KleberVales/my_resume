@@ -24,7 +24,7 @@
     padding: 0;
     margin: 0;
 }
-.sobre, p{
+.sobre, .texto_sobre{
     text-align: justify;
 }
 .contato, .tecnologia, .cursos{
@@ -51,6 +51,10 @@
     padding-top: 10px;
     
 }
+.experiencia, .formacao, .certificacoes, .paragrafo{
+    text-align: left;
+    
+}
 .side{
     display: inline-table;
     height: 550px;
@@ -61,4 +65,8 @@
     height: 100px;
     padding: 0;
     margin: 0;
+    
+}
+.redape, p{
+    text-align: center;
 }
