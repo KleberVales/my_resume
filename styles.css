@@ -27,7 +27,7 @@
 .sobre, .texto_sobre{
     text-align: justify;
 }
-.contato, .tecnologia, .cursos{
+.contato, .tecnologia, .cursos {
     width: 200px;
     margin-right: 20px;
    
@@ -37,11 +37,13 @@
 }
 .contato, li{
     list-style-type: none;
+    padding-left: 5px;
 }
 .topico{
     background: #C0C0C0;
     margin-top: 20px;
     margin-bottom: 10px;
+    padding: 10px;
 }
 .experiencia, .formacao, .certificacoes{
     width: 420px;
