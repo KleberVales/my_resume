@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a software developer with around four years of experience, specializing in designing and implementing scalable solutions. I hold \
+Software developer with around four years of experience, specializing in designing and implementing scalable solutions. I hold \
 a degree in Computer Science and am currently pursuing a postgraduate degree in Software Engineering to deepen my knowledge in \
 advanced system design and modern technologies.
 
