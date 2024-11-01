@@ -4,7 +4,7 @@
 ### About Me
 
 Software developer with around four years of experience, specializing in designing and implementing scalable solutions. I hold \
-a degree in Computer Science and am currently pursuing a postgraduate degree in Web Softwares, Developer to deepen my knowledge in \
+a degree in Computer Science and am currently pursuing a postgraduate degree in Web Softwarer Developer to deepen my knowledge in \
 advanced system design and modern technologies.
 
 In addition to my academic background, I have earned certifications in Java (Oracle Certified) and Software Development Fundamentals \
