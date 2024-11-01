@@ -20,4 +20,4 @@ vative practices to deliver high-quality software solutions that meet both clien
 |Formação Academica |
 |-------------------|
 |Bachelor of Computer Science|
-|Postgraduate in Software Engineering|
+|Postgraduate in Web Softwares Developer|
