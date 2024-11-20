@@ -11,12 +11,6 @@ In addition to my academic background, I have earned certifications in Java (Ora
 (Microsoft), demonstrating my technical expertise and commitment to continuous learning. My goal is to combine these skills with inno- \
 vative practices to deliver high-quality software solutions that meet both client and market needs.
 
-|Contact              | 
-|---------------------|
-|ksd.campos@gmail.com | 
-|+55 13 988362352     |  
-|São Paulo, SP, Brazil|     
-
 |Formação Academica |
 |-------------------|
 |Bachelor of Computer Science|
