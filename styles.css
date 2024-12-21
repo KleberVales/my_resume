@@ -1,9 +1,12 @@
+/* Reset CSS */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-#container{
+
+/* Container Principal */
+#container {
     max-width: 800px;
     height: 1200px;
     margin: auto;
@@ -11,64 +14,77 @@
     padding: 75px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-#cabecalho{
+
+/* Cabeçalho */
+#cabecalho {
     height: 100px;
     padding: 0;
     margin: 0;
+    padding-top: 10px; /* Combinar propriedades */
 }
-#cabecalho, .profissao{
-    padding-top: 10px;
+.profissao {
+    padding-top: 10px; /* Combinar propriedades */
 }
-.sobre{
+
+/* Sobre Mim */
+.sobre {
     height: 200px;
     padding: 0;
     margin: 0;
+    text-align: justify; /* Combinar propriedades */
 }
-.sobre, .texto_sobre{
+.texto_sobre {
     text-align: justify;
 }
+
+/* Contato, Tecnologia, Cursos */
 .contato, .tecnologia, .cursos {
     width: 200px;
     margin-right: 20px;
-   
 }
-.contato{
+.contato {
     background: #C0C0C0;
+    list-style-type: none;
+    padding-left: 5px; /* Combinar propriedades */
 }
-.contato, li{
+li {
     list-style-type: none;
     padding-left: 5px;
 }
-.topico{
+.topico {
     background: #C0C0C0;
     margin-top: 20px;
     margin-bottom: 10px;
     padding: 10px;
 }
-.experiencia, .formacao, .certificacoes{
+
+/* Experiência, Formação, Certificações */
+.experiencia, .formacao, .certificacoes {
     width: 420px;
-    padding-top: 10px;   
+    padding-top: 10px; /* Combinar propriedades */
 }
-.experiencia, .formacao, .certificacoes, h3{
+h3 {
     padding-top: 10px;
-    
 }
-.experiencia, .formacao, .certificacoes, .paragrafo{
+.paragrafo {
     text-align: left;
-    
 }
-.side{
+
+/* Layout Lateral */
+.side {
     display: inline-table;
     height: 550px;
     padding: 0;
     margin: 0;
 }
-.rodape{
+
+/* Rodapé */
+.rodape {
     height: 100px;
     padding: 0;
     margin: 0;
-    
+    text-align: center; /* Corrigir typo */
 }
-.redape, p{
+.redape, p {
     text-align: center;
 }
