@@ -3,11 +3,11 @@
 
 ### About Me
 
-Graduado em Ciência da Computação, com mais de cinco anos de experiência em desenvolvimento de software. Ao longo da minha carreira, participei de projetos utilizando diversas linguagens de programação, o que ampliou minha visão e adaptabilidade no setor.
+Graduated in Computer Science, with over five years of experience in software development. Throughout my career, I have participated in projects using several programming languages, which has broadened my vision and adaptability in the sector.
 
-Atualmente, estou cursando uma pós-graduação em Desenvolvimento de Software Web para aprofundar minhas habilidades e me manter atualizado com as tendências do mercado. Obtive diversas certificações na área de desenvolvimento, como Java pela Oracle e Fundamentals of Software Development pela Microsoft, para melhorar cada vez mais meus conhecimentos técnicos.
+I am currently studying for a postgraduate degree in Web Software Development to deepen my skills and stay up to date with market trends. I have obtained several certifications in the development area, such as Java from Oracle and Fundamentals of Software Development from Microsoft, to further improve my technical knowledge.
 
-Hoje, atuo como Analista Desenvolvedor Java, onde aplico meus conhecimentos de tecnologia para solucionar problemas e otimizar processos, buscando sempre resultados eficazes e de alta qualidade. Estou em constante aprendizado, visando contribuir cada vez mais com meu trabalho e ampliar meu impacto na área de tecnologia.
+Today, I work as a Java Developer Analyst, where I apply my technology knowledge to solve problems and optimize processes, always seeking effective and high-quality results. I am constantly learning, aiming to contribute more and more with my work and expand my impact in the technology area.
 
 |Formação Academica |
 |-------------------|
