@@ -3,13 +3,11 @@
 
 ### About Me
 
-Software developer with around four years of experience, specializing in designing and implementing scalable solutions. I hold \
-a degree in Computer Science and am currently pursuing a postgraduate degree in Web Softwarer Developer to deepen my knowledge in \
-advanced system design and modern technologies.
+Graduado em Ciência da Computação, com mais de cinco anos de experiência em desenvolvimento de software. Ao longo da minha carreira, participei de projetos utilizando diversas linguagens de\ programação, o que ampliou minha visão e adaptabilidade no setor.
 
-In addition to my academic background, I have earned certifications in Java (Oracle Certified) and Software Development Fundamentals \
-(Microsoft), demonstrating my technical expertise and commitment to continuous learning. My goal is to combine these skills with inno- \
-vative practices to deliver high-quality software solutions that meet both client and market needs.
+Atualmente, estou cursando uma pós-graduação em Desenvolvimento de Software Web para aprofundar minhas habilidades e me manter atualizado com as tendências do mercado. Obtive diversas certificações\ na área de desenvolvimento, como Java pela Oracle e Fundamentals of Software Development pela Microsoft, para melhorar cada vez mais meus conhecimentos técnicos.
+
+Hoje, atuo como Analista Desenvolvedor Java, onde aplico meus conhecimentos de tecnologia para solucionar problemas e otimizar processos, buscando sempre resultados eficazes e de alta qualidade.\ Estou em constante aprendizado, visando contribuir cada vez mais com meu trabalho e ampliar meu impacto na área de tecnologia.
 
 |Formação Academica |
 |-------------------|
