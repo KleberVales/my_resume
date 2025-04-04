@@ -1,4 +1,4 @@
-# Kleber Santos dos Vales
+# Kleber Vales
 ## Software Developer
 
 ### About Me
