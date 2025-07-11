@@ -11,5 +11,4 @@ Today, I work as a Java Developer Analyst, where I apply my technology knowledge
 
 |Formação Academica |
 |-------------------|
-|Bachelor of Computer Science|
-|Postgraduate in Web Softwares Developer|
+
