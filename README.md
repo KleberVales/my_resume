@@ -9,6 +9,4 @@ I am currently studying for a postgraduate degree in Web Software Development to
 
 Today, I work as a Java Developer Analyst, where I apply my technology knowledge to solve problems and optimize processes, always seeking effective and high-quality results. I am constantly learning, aiming to contribute more and more with my work and expand my impact in the technology area.
 
-|Formação Academica |
-|-------------------|
 
