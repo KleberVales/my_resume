@@ -3,7 +3,7 @@
 
 ### About Me
 
-Graduated in Computer Science
+
 
  
 
