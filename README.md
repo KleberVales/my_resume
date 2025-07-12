@@ -3,7 +3,7 @@
 
 ### About Me
 
-Graduated in Computer Science, with over five years of experience 
+Graduated in Computer Science
 
  
 
