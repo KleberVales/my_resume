@@ -1,5 +1,5 @@
 # Kleber Vales
-## Software Developer - Java - Spring FrameWork - AWS - Scrum
+## Software Developer - Java - Spring FrameWork 
 
 
 
