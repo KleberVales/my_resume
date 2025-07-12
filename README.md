@@ -3,7 +3,7 @@
 
 ### About Me
 
-Graduated in Computer Science, with over five years of experience in software development. Throughout my career, I have participated in projects using several programming languages, which has broadened my vision and adaptability in the sector.
+Graduated in Computer Science, with over five years of experience in software development. Throughout my career, I have participated in projects using several programming languages, 
 
  
 
