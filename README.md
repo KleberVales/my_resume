@@ -7,7 +7,7 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 📄 You can view the online version here:
 
 
-https://klebervales.github.io/my_resume/
+👉 https://klebervales.github.io/my_resume/
 
 
  
