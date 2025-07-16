@@ -13,7 +13,8 @@ Kleber Vales
 
 Software Developer | Java | Spring Framework | Cloud & DevOps | Git GitHub | Scrum | JUnit | Hibernate
 
-Bachelor's Degree in Computer Science
+Bachelor's Degree in Computer Science\
+MBA in Web Software Development (Current)
 
 
 
