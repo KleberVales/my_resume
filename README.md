@@ -17,7 +17,7 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 **Kleber Vales**  
 
-*Software Developer*  
+*Back-end Software Developer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit | Hibernate  
 
 Bachelor's Degree in Computer Science  
