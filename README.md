@@ -20,9 +20,7 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 *Back-end Software Developer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate | Docker | Kubernete
 
-Java Certified\
-Microsoft Certified\
-Scrum Certified
+🏆**Java Certified** 🏆**Microsoft Certified** 🏆**Scrum Certified**
 
 Bachelor's Degree in Computer Science  
 MBA in Web Software Development 
