@@ -12,7 +12,6 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 <br><br><br><br><br><br>
 
-
 ---
 
 **Kleber Vales**  
