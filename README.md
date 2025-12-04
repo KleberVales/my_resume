@@ -14,15 +14,25 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 ---
 
-**Kleber Vales**  
+**Kleber Vales**
 
-*Back-end Software Developer*  
-Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate | Docker | Kubernete
+**Java & Spring Software Engineer**   
 
-🏆**Java Certified** 🏆**Microsoft Certified** 🏆**Scrum Certified**
+Cloud & DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
-Bachelor's Degree in Computer Science  
-MBA in Web Software Development 
+🏆**OCA: Java SE 7 Programmer** 
+
+🏆**MTA: Software Development** 
+
+🏆**Scrum Certified**
+
+🏆**OCI 2025: DevOps Professional**  
+
+🏆**OCI 2025: Generative AI Professional**
+
+🎓 **Bachelor's Degree in Computer Science**
+
+🎓 **MBA in Web Software Development** 
 
 
 
