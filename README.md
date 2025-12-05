@@ -18,7 +18,7 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 **Java & Spring Software Engineer**   
 
-Cloud & DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
+Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**OCA: Java SE 7 Programmer** 
 
