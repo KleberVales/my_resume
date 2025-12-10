@@ -20,7 +20,7 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
-🏆**Oracle Clould Infrastructure - Java SE 7 Programmer** 
+🏆**Oracle Certified Associate - Java SE 7 Programmer** 
 
 🏆**MTA: Software Development** 
 
