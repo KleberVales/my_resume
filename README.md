@@ -28,7 +28,7 @@ Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**Oracle Clould Infrastructure 2025 -  DevOps Professional**  
 
-🏆**OCI 2025: Generative AI Professional**
+🏆**Oracle Clould Infrastructure 2025 - Generative AI Professional**
 
 🎓 **Bachelor's Degree in Computer Science**
 
