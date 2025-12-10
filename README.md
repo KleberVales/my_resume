@@ -24,7 +24,7 @@ Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**Microsoft Technology Associate - Software Development Fundamentals** 
 
-🏆**Scrum Certified**
+🏆**Scrum Certified Fundamentals (SCF)**
 
 🏆**Oracle Clould Infrastructure 2025 -  DevOps Professional**  
 
