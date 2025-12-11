@@ -10,7 +10,7 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 👉 https://klebervales.github.io/my_resume/
 
 
-<br><br><br>
+<br><br>
 
 ---
 
