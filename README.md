@@ -14,25 +14,24 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 ---
 
-**Kleber Vales**
+## ✉️ Contact
 
-**Java & Spring Software Engineer**   
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
 
-Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
+**Kleber Vales**  
+*Java & Spring Software Engineer*
 
-🏆**Oracle Certified Associate - Java SE 7 Programmer** 
+Cloud | DevOps | Docker | Kubernetes | Git/GitHub | Scrum | JUnit 5 | Hibernate | Gen AI
 
-🏆**Microsoft Technology Associate - Software Development Fundamentals** 
+🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
+🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
+🏆 **Scrum Fundamentals Certified (SFC™)**  
+🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
+🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
 
-🏆**Scrum Certified Fundamentals (SFC™)**
-
-🏆**Oracle Clould Infrastructure 2025 -  DevOps Professional**  
-
-🏆**Oracle Clould Infrastructure 2025 - Generative AI Professional**
-
-🎓 **Bachelor's Degree in Computer Science**
-
-🎓 **MBA in Web Software Development** 
+🎓 **Bachelor's Degree in Computer Science**  
+🎓 **MBA in Web Software Development**
 
 
 
