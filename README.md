@@ -16,8 +16,6 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 
 ## ✉️ Contact
 
-Connect with me:  
-
 Email: klebervales.dev@gmail.com
 
 Redes: [LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
