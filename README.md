@@ -17,7 +17,10 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 ## ✉️ Contact
 
 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
+
+Email: klebervales.dev@gmail.com
+
+Redes: [LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
 
 **Kleber Vales**  
 *Java & Spring Software Engineer*
