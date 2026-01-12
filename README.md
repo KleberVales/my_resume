@@ -27,8 +27,34 @@ I specialize in:
 - Secure authentication & authorization (JWT, OAuth2)
 - CI/CD pipelines and containerized environments
 
-Currently working as **Java Developer**, aiming for **Senior / Staff-level roles**.
+## 🧰 Core Tech Stack
 
+### Backend
+- Java 17 / 21
+- Spring Boot, Spring Security, Spring Data JPA
+- Hibernate, JPA
+- RESTful APIs
+
+### Architecture
+- Microservices
+- Monolith-to-Microservices
+- Clean Architecture
+- Domain-Driven Design (DDD)
+
+### DevOps & Cloud
+- Docker, Docker Compose
+- Kubernetes (fundamentals)
+- CI/CD (GitHub Actions)
+- Cloud fundamentals (AWS / Azure)
+
+### Databases
+- PostgreSQL
+- MySQL
+- Redis (cache)
+
+### Frontend (Support)
+- React
+- Flutter (Mobile)
 
 
 
