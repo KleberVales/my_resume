@@ -20,9 +20,9 @@ This repository hosts my professional resume, built in HTML and CSS to provide a
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=flat" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=KleberVales&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/KleberVales?label=Followers&style=flat" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-blueviolet?style=flat" />
 </p>
 
