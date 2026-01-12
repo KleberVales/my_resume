@@ -16,6 +16,20 @@
   <img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-blueviolet?style=flat" />
 </p>
 
+## 👋 About Me
+
+Backend-focused Software Engineer with strong experience in **Java and Spring ecosystem**, 
+designing **enterprise-grade applications**, **microservices architectures**, and **cloud-native solutions**.
+
+I specialize in:
+- Building scalable REST APIs
+- Designing clean and maintainable architectures
+- Secure authentication & authorization (JWT, OAuth2)
+- CI/CD pipelines and containerized environments
+
+Currently working as **Java Developer**, aiming for **Senior / Staff-level roles**.
+
+
 
 
 👉 https://klebervales.github.io/my_resume/
