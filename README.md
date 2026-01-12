@@ -43,7 +43,7 @@ I specialize in:
 
 ### DevOps & Cloud
 - Docker, Docker Compose
-- Kubernetes (fundamentals)
+- Kubernetes 
 - CI/CD (GitHub Actions)
 - Cloud fundamentals (AWS / Azure)
 
