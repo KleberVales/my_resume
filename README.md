@@ -56,6 +56,32 @@ I specialize in:
 - React
 - Flutter (Mobile)
 
+## 🏢 Enterprise-Level Projects
+
+### 🏙️ PLENTI
+**Hyper-Scale E-Commerce Platform**
+
+- Real-time cart synchronization
+- Distributed inventory management
+- Multi-gateway payment processing
+- Role-based access control (Admin, Vendor, Customer)
+- Event-driven architecture
+
+**Stack:** Java • Spring Boot • PostgreSQL • Redis • Docker • Flutter
+
+---
+
+### 🚨 NEMA
+**National Emergency Management System (Conceptual / Case Study)**
+
+- Offline-first mobile architecture
+- Geospatial incident tracking
+- Secure data transmission
+- Real-time command center dashboards
+
+**Stack:** Spring Boot • REST APIs • Mobile Integration • Security-first design
+
+
 
 
 👉 https://klebervales.github.io/my_resume/
