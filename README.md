@@ -81,6 +81,10 @@ I specialize in:
 
 **Stack:** Spring Boot • REST APIs • Mobile Integration • Security-first design
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide=stars&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+</p>
 
 
 
