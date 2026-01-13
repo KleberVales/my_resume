@@ -91,6 +91,9 @@ I specialize in:
 👉 https://klebervales.github.io/my_resume/
 
 
+Biblioteca, monitoramento de temperatura, Leitor facila, ecommerce, 
+
+
 ---
 
 ## ✉️ Contact
