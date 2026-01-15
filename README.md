@@ -71,20 +71,9 @@ I specialize in:
 
 ---
 
-### 🚨 NEMA
-**National Emergency Management System (Conceptual / Case Study)**
+| 🏙️ **PLENTI**<br>Hyper-Scale E-Commerce Superapp<hr>A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs.<br><br>🛒 Real-time cart synchronization across devices<br>📦 Distributed inventory management | |
+|------------------------------------------------------------------------------------------------------------------------------------------------|--|
 
-- Offline-first mobile architecture
-- Geospatial incident tracking
-- Secure data transmission
-- Real-time command center dashboards
-
-**Stack:** Spring Boot • REST APIs • Mobile Integration • Security-first design
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KleberVales&show_icons=true&hide_title=true&hide=stars&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleberVales&layout=compact" />
-</p>
 
 
 
