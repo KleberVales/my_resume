@@ -71,7 +71,17 @@ I specialize in:
 
 ---
 
-| 🏙️ **PLENTI**<br>Hyper-Scale E-Commerce Superapp<hr>A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs.<br><br>- 🛒 Real-time cart synchronization across devices<br>- 📦 Distributed inventory management | |
+| <div>
+<strong>🏙️ PLENTI</strong><br>
+<span>Hyper-Scale E-Commerce Superapp</span>
+
+<hr style="border:0;border-top:1px solid #ccc;margin:8px 0">
+
+<span>A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs.</span><br><br>
+
+🛒 Real-time cart synchronization across devices<br>
+📦 Distributed inventory management
+</div> | |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--|
 
 
