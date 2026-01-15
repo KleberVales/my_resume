@@ -1,5 +1,5 @@
 
-| <div>
+<div>
 <strong>🏙️ PLENTI</strong><br>
 <span>Hyper-Scale E-Commerce Superapp</span>
 
@@ -9,9 +9,7 @@
 
 🛒 Real-time cart synchronization across devices<br>
 📦 Distributed inventory management
-</div> | |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--|
-
+</div> 
 
 
 
