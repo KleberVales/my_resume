@@ -1,5 +1,7 @@
 # Professional Summary
 
+<p align="justify">Java & Spring Software Engineer with solid experience in backend development, microservices architecture, and cloud-native applications. I specialize in building scalable, secure, and maintainable systems using Java, Spring Boot, Docker, and Kubernetes, following clean architecture principles and DevOps best practices.<p/>
+
 
 [View my resume](https://klebervales.github.io/my_resume/) 
 
