@@ -4,6 +4,8 @@
 
 <p align="justify">With a strong foundation in Computer Science and an MBA in Web Software Development, I combine technical depth with a strategic mindset for delivering high-quality software in collaborative environments. Certified in Java, DevOps, Scrum, and Generative AI, I continuously invest in improving my expertise in cloud infrastructure, CI/CD pipelines, and modern software engineering practices.<p/>
 
+<p align="justify">I am passionate about system design, backend architecture, and building reliable enterprise solutions that create real business impact.<p/>
+
 
 [View my resume](https://klebervales.github.io/my_resume/) 
 
