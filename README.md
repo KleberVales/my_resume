@@ -23,6 +23,8 @@ Java & Spring Software Engineer | Cloud-Native & Event-Driven Architectures
 
 Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Generative AI 
 
+<p align="justify">Software engineer with 5+ years of experience building scalable systems using Java, Spring Boot and cloud-native architectures. Strong background in microservices, event-driven systems and DevOps practices.<p/>
+  
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
