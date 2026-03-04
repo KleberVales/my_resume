@@ -9,6 +9,8 @@
 
 [View my resume](https://klebervales.github.io/my_resume/) 
 
+- AI from 0 to 10
+
 ---
 
 ## ✉️ Contact
