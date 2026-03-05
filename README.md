@@ -12,7 +12,7 @@
 - [AI from 0 to 10]()
 - [A system designed for AI]()
 - [The next stage of AI]()
-- When will Artificial Intelligence surpass the cognitive limits of humans?
+- [When will Artificial Intelligence surpass the cognitive limits of humans?]()
 
 ---
 
