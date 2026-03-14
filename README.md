@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/AWS_SDK_for_Java-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SDK for Java" />
 </div>
 
+<div align="center">
+</div>
+
+
 ---
 
 ## ✉️ Contact
