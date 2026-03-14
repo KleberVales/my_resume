@@ -42,17 +42,8 @@
 </div>
 
 <div align="center">
-
-
-
-
-
-
-
-
-
-
-
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" alt="Apache Kafka" /> 
+</div>
 
 ---
 
