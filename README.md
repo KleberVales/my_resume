@@ -57,6 +57,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Dependency%20Injection-026E82?style=for-the-badge&logo=spring&logoColor=white" alt="Dependency Injection" />
 </div>
 
 
