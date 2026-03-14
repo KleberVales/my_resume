@@ -7,6 +7,9 @@
 
 [View my resume](https://klebervales.github.io/my_resume/) 
 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+
 ---
 
 ## ✉️ Contact
