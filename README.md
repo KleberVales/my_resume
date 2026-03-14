@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Singleton%20Pattern-367D89?style=for-the-badge&logo=apache&logoColor=white" alt="Singleton Pattern" />
   <img src="https://img.shields.io/badge/Factory%20Method%20Pattern-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="Factory Method Pattern" />
   <img src="https://img.shields.io/badge/Observer%20Pattern-FF9800?style=for-the-badge&logo=ReactiveX&logoColor=white" alt="Observer Pattern" />
+  <img src="https://img.shields.io/badge/Repository%20Pattern-3F51B5?style=for-the-badge&logo=java&logoColor=white" alt="Repository Pattern" />
 </div>
 
 
