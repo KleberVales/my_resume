@@ -34,6 +34,11 @@
   <!-- React --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB" alt="React" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+</div>
+
+
 
 
 
