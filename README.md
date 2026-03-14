@@ -58,6 +58,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dependency%20Injection-026E82?style=for-the-badge&logo=spring&logoColor=white" alt="Dependency Injection" />
+  <img src="https://img.shields.io/badge/Singleton%20Pattern-367D89?style=for-the-badge&logo=apache&logoColor=white" alt="Singleton Pattern" />
 </div>
 
 
