@@ -5,7 +5,9 @@
 <p align="justify">With a strong foundation in Computer Science and an MBA in Web Software Development, I combine technical depth with a strategic mindset for delivering high-quality software in collaborative environments. Certified in Java, DevOps, Scrum, and Generative AI, I continuously invest in improving my expertise in cloud infrastructure, CI/CD pipelines, and modern software engineering practices.<p/>
 
 
-[View my resume](https://klebervales.github.io/my_resume/) 
+[View my resume](https://klebervales.github.io/my_resume/)
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
@@ -13,6 +15,8 @@
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+
+</div>
 
 
 
