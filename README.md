@@ -9,8 +9,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-
 </div>
 
 <div align="center">
