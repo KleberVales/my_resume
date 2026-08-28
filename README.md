@@ -8,8 +8,6 @@
 [View my resume](https://klebervales.github.io/my_resume/)
 
 
-<div align="center">
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot" />
