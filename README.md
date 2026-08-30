@@ -9,7 +9,6 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Repository%20Pattern-3F51B5?style=for-the-badge&logo=java&logoColor=white" alt="Repository Pattern" />
 </div>
 
 <div align="center">
