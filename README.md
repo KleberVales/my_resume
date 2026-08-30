@@ -8,7 +8,6 @@
 [View my resume](https://klebervales.github.io/my_resume/)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/RESTful_APIs-6E6E6E?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/AWS_SDK_for_Java-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SDK for Java" />
 </div>
 
