@@ -8,7 +8,6 @@
 [View my resume](https://klebervales.github.io/my_resume/)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
 </div>
 
 <div align="center">
