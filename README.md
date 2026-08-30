@@ -7,14 +7,6 @@
 
 [View my resume](https://klebervales.github.io/my_resume/)
 
-
-
-<div align="center">
-</div>
-
-
-
-
 ---
 
 ## ✉️ Contact
