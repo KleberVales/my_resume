@@ -13,11 +13,11 @@
 
 Email: klebervales.dev@gmail.com
 
-**Kleber Vales**
+### Kleber Vales
 
-Java & Spring Software Engineer 
+**Java & Spring Software Engineer**
 
-Microservices | Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Generative AI | Event-driven Architecture
+Cloud |
 
 <p align="justify">Software engineer with 5+ years of experience building scalable systems using Java, Spring Boot and cloud-native architectures. Strong background in microservices, event-driven systems and DevOps practices.<p/>
   
@@ -30,16 +30,5 @@ Microservices | Cloud | DevOps | Microservices | Git/Github | Docker | Kubernete
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
-
-
-
-
-
-
-
-
-
-
-
 
 
