@@ -26,7 +26,6 @@ Microservices | Cloud | DevOps | Microservices | Git/Github | Docker | Kubernete
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
 🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
-
 fff
 
 🎓 **Bachelor's Degree in Computer Science**  
