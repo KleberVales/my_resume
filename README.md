@@ -17,7 +17,7 @@ Email: klebervales.dev@gmail.com
 
 **Java & Spring Software Engineer**
 
-Cloud | DevOps |
+Cloud | DevOps | Generative AI
 
 <p align="justify">Software engineer with 5+ years of experience building scalable systems using Java, Spring Boot and cloud-native architectures. Strong background in microservices, event-driven systems and DevOps practices.<p/>
   
