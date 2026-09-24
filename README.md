@@ -12,7 +12,7 @@
 ## ✉️ Contact
 
 Email: klebervales.dev@gmail.com
-LinkedIn:
+LinkedIn: LinkedIn.com
 
 ### Kleber Vales
 
