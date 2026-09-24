@@ -19,7 +19,7 @@ Email: klebervales.dev@gmail.com
 
 Cloud | DevOps | Generative AI | Methodologies | Architectures
 
-<p align="justify">Software engineer with 10+ years of experience building<p/>
+<p align="justify">Software engineer with 10+ years of experience<p/>
   
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
