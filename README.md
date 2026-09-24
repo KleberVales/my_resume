@@ -18,8 +18,6 @@ Email: klebervales.dev@gmail.com
 **Java & Spring Software Engineer**
 
 Cloud | DevOps | Generative AI | Methodologies | Architectures
-
-<p align="justify">Software<p/>
   
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
