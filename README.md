@@ -19,7 +19,7 @@ Email: klebervales.dev@gmail.com
 
 Cloud | DevOps | Generative AI | Methodologies | Architectures
 
-<p align="justify">Software engineer with 10+ years of experience building scalable systems using Java, Spring Boot and cloud-native architectures. Strong background in microservices, event-driven systems<p/>
+<p align="justify">Software engineer with 10+ years of experience building scalable systems using Java, Spring Boot and cloud-native architectures. Strong background in microservices<p/>
   
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
