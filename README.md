@@ -20,7 +20,7 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
   
-**Certifications** 
+**Certifications**  
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
