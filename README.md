@@ -7,19 +7,6 @@
 
 [View my resume](https://klebervales.github.io/my_resume/)
 
-
-| 🏅 | 🏅 | 🏅 |
-|:---:|:---:|:---:|
-|&emsp;OCA – Java SE 7 Programmer&emsp;&ensp;| MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™)&emsp;&ensp; |
-
-| 🏅 | 🏅 | 🏅 |
-|:---:|:---:|:---:|
-| OCI 2025 – DevOps Professional&emsp;|&emsp; OCI 2025 – Generative AI Professional&emsp;&emsp; | Oracle Agentic AI Foundations Associate |
-
-| 🏅 | 
-|:---:|
-|&emsp; OCI AI Foundations Associate &ensp; | 
-
 ---
 
 ### ✉️ Contact
