@@ -11,9 +11,13 @@
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
 | OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
+
 | 🏅 | 🏅 | 🏅 |
+|:---:|:---:|:---:|
 | OCI 2025 – DevOps Professional | OCI 2025 – Generative AI Professional | Oracle Agentic AI Foundations Associate |
+
 | 🏅 | | |
+|:---:|:---:|:---:|
 | OCI AI Foundations Associate | | |
 
 ---
