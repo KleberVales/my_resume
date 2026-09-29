@@ -14,7 +14,7 @@
 
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
-| OCI 2025 – DevOps Professional&emsp;| OCI 2025 – Generative AI Professional | Oracle Agentic AI Foundations Associate |
+| OCI 2025 – DevOps Professional&emsp;|&emsp;&emsp; OCI 2025 – Generative AI Professional&emsp;&emsp; | Oracle Agentic AI Foundations Associate |
 
 | 🏅 | | |
 |:---:|:---:|:---:|
