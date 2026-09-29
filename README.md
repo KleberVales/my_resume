@@ -18,7 +18,7 @@
 
 | 🏅 | 
 |:---:|
-|&emsp; OCI AI Foundations Associate &emsp; | 
+|&emsp; OCI AI Foundations Associate &ensp; | 
 
 ---
 
