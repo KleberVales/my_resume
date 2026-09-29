@@ -10,7 +10,7 @@
 
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
-| OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
+|&emsp;OCA – Java SE 7 Programmer&emsp; | MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
 
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
