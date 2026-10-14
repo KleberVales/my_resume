@@ -9,6 +9,8 @@
 
 ## Projects
 
+**Smart Sales Store**
+
 ---
 
 ### ✉️ Contact
