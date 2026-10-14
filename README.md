@@ -13,6 +13,8 @@
 
 Automation and inventory control in stores
 
+Smart Sales Store is a backend 
+
 ---
 
 ### ✉️ Contact
