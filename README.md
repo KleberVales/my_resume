@@ -13,7 +13,7 @@
 
 Automation and inventory control in stores
 
-Smart Sales Store is a backend application for managing sales operations, developed by Kleber Vales as a practical study of modern Java and Spring Boot backend engineering. The project emphasizes clean architecture, domain-driven design, modularity, and scalable backend development, 
+Smart Sales Store is a backend application for managing sales operations, developed by Kleber Vales as a practical study of modern Java and Spring Boot backend engineering. The project emphasizes clean architecture, domain-driven design, modularity, and scalable backend development, with its architecture prepared to evolve into a distributed system.
 
 ---
 
