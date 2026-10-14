@@ -11,6 +11,8 @@
 
 **Smart Sales Store**
 
+Automation and inventory control in stores
+
 ---
 
 ### ✉️ Contact
