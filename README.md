@@ -15,6 +15,25 @@ Automation and inventory control in stores
 
 Smart Sales Store is a fullstack application for managing sales operations, developed by Kleber Vales as a practical of modern Java and Spring Boot backend engineering. The project emphasizes clean architecture, domain-driven design, modularity, and scalable backend development, with its architecture prepared to evolve into a distributed system.
 
+```text
+┌─────────────────────────────────────────────────────────┐
+│                    API Gateway                          │
+└────────────────────┬────────────────────────────────────┘
+                     │
+     ┌───────────────┼───────────────┐
+     ▼               ▼               ▼
+┌─────────┐    ┌─────────┐    ┌─────────┐
+│  User   │    │ Sales   │    │ Product │
+│ Service │    │ Service │    │ Service │
+└────┬────┘    └────┬────┘    └────┬────┘
+     │              │              │
+     ▼              ▼              ▼
+┌─────────┐    ┌─────────┐    ┌─────────┐
+│PostgreSQL│   │PostgreSQL│   │PostgreSQL│
+└─────────┘    └─────────┘    └─────────┘
+```
+
+
 ---
 
 ### ✉️ Contact
