@@ -43,7 +43,7 @@ The project follows Clean Architecture principles, ensuring business rules remai
 
 **Microservices Evolution**
 
-Smart 
+Smart Sales Store is designed 
 
 
 
