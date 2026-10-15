@@ -37,6 +37,9 @@ Smart Sales Store is a fullstack application for managing sales operations, deve
 
 The application is built using Java 21 and Spring Boot 3.2.4, with a Gradle multi-module structure that allows new services to be added independently. The current implementation includes a User Service responsible for user-related operations, utilizing Spring Web for REST API development, Spring Data JPA for persistence, and PostgreSQL as the relational database. The project employs Lombok for boilerplate reduction and JUnit 5 for automated testing.
 
+**Architecture Principles**
+
+
 
 ---
 
