@@ -9,7 +9,7 @@
 
 ## Projects
 
-**Smart Sales Store**
+[**Smart Sales Store**](https://github.com/KleberVales/smart-sales-store)
 
 Automation and inventory control in stores
 
