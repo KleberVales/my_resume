@@ -35,7 +35,7 @@ Smart Sales Store is a fullstack application for managing sales operations, deve
 
 **Technology Stack**
 
-The application is built 
+The application is built using Java 21 and Spring Boot 3.2.4, 
 
 
 ---
