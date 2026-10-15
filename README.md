@@ -35,6 +35,8 @@ Smart Sales Store is a fullstack application for managing sales operations, deve
 
 **Technology Stack**
 
+The application is built 
+
 
 ---
 
