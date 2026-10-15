@@ -47,6 +47,8 @@ Smart Sales Store is designed to evolve toward a microservices architecture, whe
 
 **Planned Capabilities**
 
+The project roadmap includes user authentication, 
+
 
 ---
 
