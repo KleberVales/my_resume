@@ -43,8 +43,7 @@ The project follows Clean Architecture principles, ensuring business rules remai
 
 **Microservices Evolution**
 
-Smart Sales Store is designed to evolve toward a microservices architecture, 
-
+Smart Sales Store is designed to evolve toward a microservices architecture, where each business 
 
 
 ---
