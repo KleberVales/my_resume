@@ -39,7 +39,7 @@ The application is built using Java 21 and Spring Boot 3.2.4, with a Gradle mult
 
 **Architecture Principles**
 
-The project follows Clean Architecture principles, 
+The project follows Clean Architecture principles, ensuring business rules remain independent 
 
 
 
