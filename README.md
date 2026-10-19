@@ -68,7 +68,7 @@ The repository has four top-level modules: `app`, `user`, `nutrition` and `auth`
 | app | src/Main.java | Application entry point |
 | user | domain, application, adapter | User-related functionality |
 | nutrition | domain, application, adapter | Meals, foods, calories, macros and goals |
-
+| auth | adapter, application, config | Authentication and security configuration |
 
 ---
 
