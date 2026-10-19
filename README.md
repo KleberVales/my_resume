@@ -51,7 +51,7 @@ The project roadmap includes user authentication, product and inventory manageme
 
 ---
 
-[**Nutrition Daily**]()
+[**Nutrition Daily**](https://github.com/KleberVales/nutrition-daily)
 
 **Overview**
 
