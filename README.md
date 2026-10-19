@@ -63,7 +63,9 @@ The repository has four top-level modules: `app`, `user`, `nutrition` and `auth`
 
 &#91;embedded content: module map · 1 entry point, 3 feature modules\]
 
-
+| Module | Layers | Responsibility |
+| --- | --- | --- |
+| app | src/Main.java | Application entry point |
 
 
 
