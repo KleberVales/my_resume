@@ -59,7 +59,7 @@ Nutrition Daily applies Domain-Driven Design (DDD) and modern backend architectu
 
 **Architecture**
 
-The repository has four top-level modules: 
+The repository has four top-level modules: `app`, `user`, `nutrition` and `auth`. 
 
 
 
