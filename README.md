@@ -55,9 +55,7 @@ The project roadmap includes user authentication, product and inventory manageme
 
 **Overview**
 
-Nutrition Daily applies Domain-Driven Design (DDD) and modern backend architecture principles to build a scalable, maintainable system. The code lives under the `com.kvales` 
-
-
+Nutrition Daily applies Domain-Driven Design (DDD) and modern backend architecture principles to build a scalable, maintainable system. The code lives under the `com.kvales` package and is split into one entry-point module and three 
 
 
 ---
