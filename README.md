@@ -72,8 +72,7 @@ The repository has four top-level modules: `app`, `user`, `nutrition` and `auth`
 
 **Module structure**
 
-The `user` and `nutrition` modules follow a DDD / ports-and-adapters layout with three packages: `domain`, `application` and `adapter`. 
-
+The `user` and `nutrition` modules follow a DDD / ports-and-adapters layout with three packages: `domain`, `application` and `adapter`. The `auth` module uses `adapter`, 
 
 
 ---
