@@ -70,6 +70,10 @@ The repository has four top-level modules: `app`, `user`, `nutrition` and `auth`
 | nutrition | domain, application, adapter | Meals, foods, calories, macros and goals |
 | auth | adapter, application, config | Authentication and security configuration |
 
+**Module structure**
+
+
+
 ---
 
 ### ✉️ Contact
