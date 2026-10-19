@@ -49,6 +49,10 @@ Smart Sales Store is designed to evolve toward a microservices architecture, whe
 
 The project roadmap includes user authentication, product and inventory management, sales processing, customer service, API gateway implementation, service-to-service communication, event-driven architecture, observability features, Docker containerization, CI/CD pipeline setup, and cloud deployment. This comprehensive plan reflects the project's goal of serving as a practical laboratory for studying backend architecture and distributed systems.
 
+---
+
+## Nutrition Daily
+
 
 ---
 
