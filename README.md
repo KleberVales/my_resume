@@ -55,9 +55,7 @@ The project roadmap includes user authentication, product and inventory manageme
 
 **Overview**
 
-Nutrition Daily applies Domain-Driven Design (DDD) 
-
-
+Nutrition Daily applies Domain-Driven Design (DDD) and modern backend architecture principles to build a scalable, 
 
 
 ---
