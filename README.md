@@ -71,7 +71,7 @@ The proposed architecture uses a Java 21 and Spring Boot backend to expose APIs 
 
 **Dashboard and data visualization**
 
-The dashboard is intended to be the main entry point for exploring home data. Through charts, summary indicators, and historical views, users can gain a clearer understanding of environmental conditions and energy usage. The React interface and Spring Boot API provide a separation between presentation and business logic, 
+The dashboard is intended to be the main entry point for exploring home data. Through charts, summary indicators, and historical views, users can gain a clearer understanding of environmental conditions and energy usage. The React interface and Spring Boot API provide a separation between presentation and business logic, supporting a modular approach to future development. 
 
 
 
