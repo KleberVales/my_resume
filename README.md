@@ -53,7 +53,8 @@ The project roadmap includes user authentication, product and inventory manageme
 
 [**Nutrition Daily**](https://github.com/KleberVales/nutrition-daily)
 
-[Smart Temperature and Humidity Sensor ZigBee NEO NAS-TH02B TUYA](https://images.openai.com/static-rsc-4/RRR-xbxwS-ytMzY5uzfBOJAIhHZ9tlDqihOTkNuaXjiGF_g_KVHEhO0Hpb0G4w6k5SfO3biQPWiFBh6gPpJP0KaU6z4ptkojJ_BTCaUpS6GUQx7NJqy5HhnFj2q2Kj8EhrtbvF96U0BU5lTDQrTHmktGCQKqa4JXOn3e30E6OSE?purpose=inline)
+<img width="1217" height="775" alt="tt" src="https://github.com/user-attachments/assets/748ca5af-530e-4e9f-8a16-3717622a4426" />
+
 
 [topelectronics.gr](https://topelectronics.gr/smart-home/neo/smart-temperature-and-humidity-sensor-zigbee-neo-nas-th02b-tuya/?utm_source=chatgpt.com)
 
