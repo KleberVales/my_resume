@@ -66,7 +66,7 @@ The project combines backend development, data persistence, cloud storage, IoT i
 **Architecture and technologies**
 
 
-The proposed architecture uses a Java 21 and Spring Boot backend to expose APIs and coordinate access to application data. 
+The proposed architecture uses a Java 21 and Spring Boot backend to expose APIs and coordinate access to application data. A React frontend provides dashboards and charts, while PostgreSQL stores structured information. 
 
 
 [topelectronics.gr](https://topelectronics.gr/smart-home/neo/smart-temperature-and-humidity-sensor-zigbee-neo-nas-th02b-tuya/?utm_source=chatgpt.com)
