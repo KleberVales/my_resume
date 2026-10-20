@@ -53,30 +53,9 @@ The project roadmap includes user authentication, product and inventory manageme
 
 [**Nutrition Daily**](https://github.com/KleberVales/nutrition-daily)
 
-**Overview**
+[Smart Temperature and Humidity Sensor ZigBee NEO NAS-TH02B TUYA](https://images.openai.com/static-rsc-4/RRR-xbxwS-ytMzY5uzfBOJAIhHZ9tlDqihOTkNuaXjiGF_g_KVHEhO0Hpb0G4w6k5SfO3biQPWiFBh6gPpJP0KaU6z4ptkojJ_BTCaUpS6GUQx7NJqy5HhnFj2q2Kj8EhrtbvF96U0BU5lTDQrTHmktGCQKqa4JXOn3e30E6OSE?purpose=inline)
 
-Nutrition Daily applies Domain-Driven Design (DDD) and modern backend architecture principles to build a scalable, maintainable system. The code lives under the `com.kvales` package and is split into one entry-point module and three feature modules, each organized in layers.
-
-**Architecture**
-
-The repository has four top-level modules: `app`, `user`, `nutrition` and `auth`. The `app` module holds `Main.java`, the starting point of the application. The three feature modules each own their code and are described in the table below.
-
-&#91;embedded content: module map · 1 entry point, 3 feature modules\]
-
-| Module | Layers | Responsibility |
-| --- | --- | --- |
-| app | src/Main.java | Application entry point |
-| user | domain, application, adapter | User-related functionality |
-| nutrition | domain, application, adapter | Meals, foods, calories, macros and goals |
-| auth | adapter, application, config | Authentication and security configuration |
-
-**Module structure**
-
-The `user` and `nutrition` modules follow a DDD / ports-and-adapters layout with three packages: `domain`, `application` and `adapter`. The `auth` module uses `adapter`, `application` and `config` instead.
-
-&#91;embedded content: layer dependencies · adapter, application, domain\]
-
-
+[topelectronics.gr](https://topelectronics.gr/smart-home/neo/smart-temperature-and-humidity-sensor-zigbee-neo-nas-th02b-tuya/?utm_source=chatgpt.com)
 
 ---
 
