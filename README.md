@@ -68,6 +68,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 The proposed architecture uses a Java 21 and Spring Boot backend to expose APIs and coordinate access to application data. A React frontend provides dashboards and charts, while PostgreSQL stores structured information. AWS S3 is intended for image storage, and AWS IoT supports sensor and device integration. These components establish a foundation for organizing data flows between physical devices, cloud services, and the user interface.&#x20;
 
 <img width="600" height="382" alt="uuu" src="https://github.com/user-attachments/assets/70a31df0-40e2-446c-9594-7ba7f2f41dc2" />  
+Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 </br>
 
