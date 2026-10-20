@@ -53,7 +53,7 @@ The project roadmap includes user authentication, product and inventory manageme
 
 [**Nutrition Daily**](https://github.com/KleberVales/nutrition-daily)
 
-The Home Data Platform is a smart-home data platform designed to centralize environmental and device information in a single application. It aims to collect, organize, and analyze data such as temperature, humidity, energy consumption, 
+The Home Data Platform is a smart-home data platform designed to centralize environmental and device information in a single application. It aims to collect, organize, and analyze data such as temperature, humidity, energy consumption, presence, and air quality, 
 
 <img width="600" height="382" alt="yyy" src="https://github.com/user-attachments/assets/a6ad1b08-b5b3-4c98-bb06-6e9edbc924c4" />
 
