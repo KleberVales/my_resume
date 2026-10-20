@@ -69,7 +69,9 @@ The proposed architecture uses a Java 21 and Spring Boot backend to expose APIs 
 
 <img width="600" height="382" alt="uuu" src="https://github.com/user-attachments/assets/70a31df0-40e2-446c-9594-7ba7f2f41dc2" />
 
-<\br>
+</br></br>
+</br>
+
 
 **Dashboard and data visualization**
 
