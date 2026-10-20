@@ -75,11 +75,6 @@ The dashboard is intended to be the main entry point for exploring home data. Th
 
 <img width="600" height="382" alt="rrr" src="https://github.com/user-attachments/assets/639e676a-58f8-49c4-8bfc-83204e3c5725" />
 
-
-
-
-[topelectronics.gr](https://topelectronics.gr/smart-home/neo/smart-temperature-and-humidity-sensor-zigbee-neo-nas-th02b-tuya/?utm_source=chatgpt.com)
-
 ---
 
 ### ✉️ Contact
