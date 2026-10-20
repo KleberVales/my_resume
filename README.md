@@ -59,6 +59,10 @@ The project combines backend development, data persistence, cloud storage, IoT i
 
 <img width="600" height="382" alt="yyy" src="https://github.com/user-attachments/assets/a6ad1b08-b5b3-4c98-bb06-6e9edbc924c4" />
 
+[Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics](https://images.openai.com/static-rsc-4/ZtVVSxt1Luwkt2oq7x6bkPBNHw0znS4vk5512L85ouLrNRIi79wdGjU4haeXu39kh3HkI1_a6rx5YYS6SPSYwJHhUL299YL4Op3rAQ2ywo3z6LwabKZYTTsagikYmbv9dEGwoJSs3dJ4qlA437Iz9KgludTQjFr5q6kDTdCj7JU?purpose=inline)
+
+
+
 **Architecture and technologies**
 
 
