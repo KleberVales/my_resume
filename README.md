@@ -55,7 +55,7 @@ The project roadmap includes user authentication, product and inventory manageme
 
 The Home Data Platform is a smart-home data platform designed to centralize environmental and device information in a single application. It aims to collect, organize, and analyze data such as temperature, humidity, energy consumption, presence, and air quality, providing a unified view of home conditions and helping users identify patterns and unusual events.
 
-The project combines backend development, 
+The project combines backend development, data persistence, cloud storage, 
 
 <img width="600" height="382" alt="yyy" src="https://github.com/user-attachments/assets/a6ad1b08-b5b3-4c98-bb06-6e9edbc924c4" />
 
