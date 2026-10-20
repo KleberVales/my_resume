@@ -75,6 +75,23 @@ The dashboard is intended to be the main entry point for exploring home data. Th
 
 <img width="600" height="382" alt="rrr" src="https://github.com/user-attachments/assets/639e676a-58f8-49c4-8bfc-83204e3c5725" />
 
+Modular architecture
+
+Separate frontend, backend, persistence, and IoT integration responsibilities to improve maintainability and extensibility.
+
+Cloud integration
+
+Explore AWS services for connected devices and image storage, with room for further cloud-native development.
+
+Data-driven insights
+
+Structure sensor data for visualization, historical analysis, and the identification of relevant patterns.
+
+Reliability and maintainability
+
+Establish a foundation for API validation, automated testing, secure configuration, and consistent data processing.
+
+
 ---
 
 ### ✉️ Contact
