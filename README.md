@@ -71,6 +71,8 @@ The proposed architecture uses a Java 21 and Spring Boot backend to expose APIs 
 
 **Dashboard and data visualization**
 
+The dashboard is intended to be the main entry point for exploring home data. 
+
 
 
 [topelectronics.gr](https://topelectronics.gr/smart-home/neo/smart-temperature-and-humidity-sensor-zigbee-neo-nas-th02b-tuya/?utm_source=chatgpt.com)
