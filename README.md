@@ -53,6 +53,8 @@ The project roadmap includes user authentication, product and inventory manageme
 
 [**Nutrition Daily**](https://github.com/KleberVales/nutrition-daily)
 
+The Home Data Platform is a 
+
 <img width="600" height="382" alt="yyy" src="https://github.com/user-attachments/assets/a6ad1b08-b5b3-4c98-bb06-6e9edbc924c4" />
 
 
