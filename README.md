@@ -93,6 +93,8 @@ Reliability and maintainability
 
 Establish a foundation for API validation, automated testing, secure configuration, and consistent data processing.
 
+The Home Data Platform is a software engineering project focused on the intersection of Java backend development, cloud services, IoT, and data analytics. Its architecture and planned components offer opportunities to explore integration patterns and the evolution of a connected-home platform.
+
 
 ---
 
