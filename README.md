@@ -1,7 +1,5 @@
 # Apresentation
 
-
-[View my 
 ## Projects
 
 [**Smart Sales Store**](https://github.com/KleberVales/smart-sales-store)
