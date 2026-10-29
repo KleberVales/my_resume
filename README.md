@@ -1,8 +1,7 @@
 # Apresentation
 
 
-[View my resume](https://klebervales.github.io/my_resume/)
-
+[View my resume](https://klebervales.github
 ## Projects
 
 [**Smart Sales Store**](https://github.com/KleberVales/smart-sales-store)
