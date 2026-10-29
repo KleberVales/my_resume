@@ -1,6 +1,6 @@
 # Apresentation
 
-<p align="justify">Java & Spring
+<p align="justify">Java
 
 
 
