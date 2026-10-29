@@ -1,7 +1,7 @@
 # Apresentation
 
 
-<p align="justify">With a strong foundation in Computer Science and an MBA in Web Software Development, I combine technical depth with a strategic mindset for delivering high-quality software in collaborative environments. Certified in Java, DevOps
+<p align="justify">With a strong foundation in Computer Science and an MBA in Web Software Development, I combine technical depth with a strategic mindset for delivering high-quality software in collaborative environments. Certified in Java
 
 [View my resume](https://klebervales.github.io/my_resume/)
 
