@@ -1,8 +1,6 @@
 # Apresentation
 
 
-<p align="justify">With a strong
-
 [View my resume](https://klebervales.github.io/my_resume/)
 
 ## Projects
