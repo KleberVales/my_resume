@@ -1,7 +1,7 @@
 # Apresentation
 
 
-<p align="justify">With a strong foundation in Computer Science and 
+<p align="justify">With a strong foundation in Computer
 
 [View my resume](https://klebervales.github.io/my_resume/)
 
