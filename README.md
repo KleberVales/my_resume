@@ -85,6 +85,8 @@ The backend is built with Java 21 and Spring Boot, exposing REST APIs and organi
 **Backend Engineering and Deployment**
 
 - Developed a Spring Boot backend service for family data management, exposing REST endpoints.
+- Integrated PostgreSQL for persistent data storage.
+
 
 
 ---
