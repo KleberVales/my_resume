@@ -76,7 +76,9 @@ The dashboard is intended to be the main entry point for exploring home data. Th
 
 **Smart Home Data Management and Analytics Platform**
 
-Home Data Platform is a cloud-oriented application designed to centralize and manage household data, providing a foundation for monitoring environmental conditions, 
+Home Data Platform is a cloud-oriented application designed to centralize and manage household data, providing a foundation for monitoring environmental conditions, device information, and historical data analysis.
+
+
 
 ---
 
