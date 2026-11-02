@@ -87,6 +87,9 @@ The backend is built with Java 21 and Spring Boot, exposing REST APIs and organi
 - Developed a Spring Boot backend service for family data management, exposing REST endpoints.
 - Integrated PostgreSQL for persistent data storage.
 - Containerized the application using Docker and Docker Compose.
+- Deployed the backend application to AWS EC2, validating API accessibility and database connectivity.
+
+**Technologies:** Java 21, Spring Boot, Gradle, REST APIs, PostgreSQL, Docker, Docker Compose, AWS EC2, React.
 
 ---
 
