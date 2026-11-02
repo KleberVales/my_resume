@@ -80,7 +80,8 @@ Home Data Platform is a cloud-oriented application designed to centralize and ma
 
 **Architecture and Technology Stack**
 
-The backend is built with Java 21 and Spring Boot, 
+The backend is built with Java 21 and Spring Boot, exposing REST APIs and organizing business logic into a modular service. 
+
 
 ---
 
