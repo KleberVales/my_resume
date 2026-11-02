@@ -80,8 +80,9 @@ Home Data Platform is a cloud-oriented application designed to centralize and ma
 
 **Architecture and Technology Stack**
 
-The backend is built with Java 21 and Spring Boot, exposing REST APIs and organizing business logic into a modular service. PostgreSQL provides relational data persistence, while the React frontend is intended to provide dashboards and data visualization. 
- 
+The backend is built with Java 21 and Spring Boot, exposing REST APIs and organizing business logic into a modular service. PostgreSQL provides relational data persistence, while the React frontend is intended to provide dashboards and data visualization. The project also explores AWS integration for cloud storage and IoT device connectivity.
+
+
 
 ---
 
