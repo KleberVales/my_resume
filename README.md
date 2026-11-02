@@ -74,6 +74,10 @@ The dashboard is intended to be the main entry point for exploring home data. Th
 
 ### [Home Data Platform](https://github.com/KleberVales/home-data-platform)
 
+**Smart Home Data Management and Analytics Platform**
+
+
+
 
 
 ---
