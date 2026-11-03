@@ -82,7 +82,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Smart Home Data Management and Analytics Platform**
 
-Home Data Platform is a cloud-oriented application designed to centralize and manage household data, providing a foundation for monitoring environmental conditions, device information, and historical data analysis.
+<p align="justify">Home Data Platform is a cloud-oriented application designed to centralize and manage household data, providing a foundation for monitoring environmental conditions, device information, and historical data analysis.</p>
 
 **Architecture and Technology Stack**
 
