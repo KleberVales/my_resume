@@ -50,7 +50,7 @@ Smart Sales Store is a fullstack application for managing sales operations, deve
 
 ---
 
-[**Nutrition Daily**](https://github.com/KleberVales/nutrition-daily)
+[**NUTRITION DAILY**](https://github.com/KleberVales/nutrition-daily)
 
 <p align="justify">The Home Data Platform is a smart-home data platform designed to centralize environmental and device information in a single application. It aims to collect, organize, and analyze data such as temperature, humidity, energy consumption, presence, and air quality, providing a unified view of home conditions and helping users identify patterns and unusual events.</p>
 
