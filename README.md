@@ -108,5 +108,5 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 
 **Java & Spring Software Engineer**
 
-| Cloud | DevOps | 
+| Cloud | 
   
