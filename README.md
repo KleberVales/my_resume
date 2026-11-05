@@ -100,5 +100,3 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 ---
 
 ### ✉️ Contact
-
-Email: klebervales.dev@gmail.com    
