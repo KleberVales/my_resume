@@ -120,6 +120,3 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 🏆 **Agentic AI Certified Fundations Associate**  
 🏆 **OCI AI Foundations Associate**  
 
-🎓 **Bachelor's Degree in Computer Science**  
-
-
