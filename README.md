@@ -110,4 +110,3 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 
 | Cloud | DevOps | Generative AI | Methodologies | Architectures |
   
-**Certifications**  
