@@ -121,6 +121,5 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 🏆 **OCI AI Foundations Associate**  
 
 🎓 **Bachelor's Degree in Computer Science**  
-🎓 **MBA in Web Software Development**
 
 
