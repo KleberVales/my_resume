@@ -114,4 +114,3 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
-🏆 **Scrum Fundamentals Certified (SFC™)**  
