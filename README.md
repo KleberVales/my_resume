@@ -101,6 +101,6 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Bachelor's Degree in Computer Science**  
 
-My undergraduate studies were a period of significant, in-depth learning. 
+My undergraduate studies were a period of significant, in-depth learning. Throughout the program, I developed semester-long practical projects that went beyond theory, 
 
 **Postgraduate in Web Software Development**
