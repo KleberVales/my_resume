@@ -100,4 +100,4 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 ## Education
 
 **Computer Science**  
-**Postgraduate in Web Software
+**Postgraduate in Web Software Development**
