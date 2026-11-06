@@ -107,6 +107,6 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Postgraduate in Web Software Development**
 
-I started this postgraduate program in 2024, while working as a Java Developer, which let me apply what I learned directly to real projects. 
+I started this postgraduate program in 2024, while working as a Java Developer, which let me apply what I learned directly to real projects. The program deepened 
 
 
