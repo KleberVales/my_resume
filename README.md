@@ -98,3 +98,5 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 **Technologies:** Java 21, Spring Boot, Gradle, REST APIs, PostgreSQL, Docker, Docker Compose, AWS EC2, React.
 
 ## Education
+
+**Computer Science**  
