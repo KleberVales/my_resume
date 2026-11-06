@@ -103,7 +103,6 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 My undergraduate studies were a period of significant, in-depth learning. Throughout the program, I developed semester-long practical projects that went beyond theory, requiring me to plan, design, and deliver working software while applying the concepts covered in class.
 
-
-
+Beyond the classroom, I participated in science fairs, 
 
 **Postgraduate in Web Software Development**
