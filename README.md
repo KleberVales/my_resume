@@ -115,7 +115,7 @@ Studying while working professionally connected theory and practice, strengtheni
 
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
-<p align="justify">The Oracle Cloud Infrastructure (OCI) AI Foundations certification </p>
+<p align="justify">The Oracle Cloud Infrastructure (OCI) AI Foundations certification is designed to introduce learners to the fundamental concepts of artificial intelligence (AI) </p>
 
 
 
