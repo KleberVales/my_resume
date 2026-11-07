@@ -6,7 +6,7 @@
 
 <p align="justify">After graduating, I worked on a data collection project in industrial environments to monitor inventory. In 2019, I joined a project to automate bookstores, which gave me hands-on experience building solutions for real retail operations. In 2024, I joined a new company as a Java Developer and began a postgraduate degree in Software Development. In 2025, I earned three certifications, including two Oracle Professional certifications (DevOps and Generative AI), strengthening my foundation in cloud, DevOps, and Agile.</p>
 
-## Projects
+## 🛠️ Projects
 
 [**SMART SALE STORE**](https://github.com/KleberVales/smart-sales-store)
 
