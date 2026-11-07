@@ -111,6 +111,8 @@ I started this postgraduate program in 2024, while working as a Java Developer, 
 
 Studying while working professionally connected theory and practice, strengthening my skills in clean architecture, REST APIs, and cloud-oriented development. It also supported the growth reflected in my 2025 certifications and in personal projects like Smart Sales Store and Home Data Platform.
 
+## 🏆 Certifications
+
 
 
 
