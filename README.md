@@ -113,7 +113,7 @@ Studying while working professionally connected theory and practice, strengtheni
 
 ## 🏆 Certifications
 
-**Oracle Cloud Infrastructure 2025**
+**Oracle Cloud Infrastructure 2025 – DevOps Professional**
 
 
 
