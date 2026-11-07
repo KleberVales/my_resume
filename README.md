@@ -115,7 +115,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Certified Associate, Java SE 7 Programmer**
 
-<p align="justify">The Oracle Certified Associate (OCA) Java SE 7 Programmer certification is an entry-level credential offered by Oracle that validates a candidate's fundamental knowledge of the Java programming language and object-oriented concepts. It is obtained by passing the Java SE 7 Programmer I exam (1Z0-803), which tests essential skills such as working with Java data types, using operators and decision constructs, creating and using arrays and loops, applying encapsulation and inheritance principles, and handling exceptions. </p>
+<p align="justify">The Oracle Certified Associate (OCA) Java SE 7 Programmer certification is an entry-level credential offered by Oracle that validates a candidate's fundamental knowledge of the Java programming language and object-oriented concepts. It is obtained by passing the Java SE 7 Programmer I exam (1Z0-803), which tests essential skills such as working with Java data types, using operators and decision constructs, creating and using arrays and loops, applying encapsulation and inheritance principles, and handling exceptions. This certification is designed for individuals who are beginning their Java programming careers or wish to prove they possess the basic skills needed to develop simple Java applications. </p>
 
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
