@@ -107,7 +107,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Postgraduate in Web Software Development**
 
-I started this postgraduate program in 2024, while working as a Java Developer, which let me apply what I learned directly to real projects. The program deepened my knowledge of modern web application development, covering software architecture, backend and frontend integration, databases, and good engineering practices for building scalable, maintainable systems.
+<p align="justify">I started this postgraduate program in 2024, while working as a Java Developer, which let me apply what I learned directly to real projects. The program deepened my knowledge of modern web application development, covering software architecture, backend and frontend integration, databases, and good engineering practices for building scalable, maintainable systems.</p>
 
 Studying while working professionally connected theory and practice, strengthening my skills in clean architecture, REST APIs, and cloud-oriented development. It also supported the growth reflected in my 2025 certifications and in personal projects like Smart Sales Store and Home Data Platform.
 
@@ -115,6 +115,7 @@ Studying while working professionally connected theory and practice, strengtheni
 
 **Oracle Certified Associate, Java SE 7 Programmer**
 
+The Oracle Certified Associate (OCA) Java SE 7 Programmer certification is an entry-level credential offered by Oracle that validates a candidate's fundamental knowledge of the Java programming language and object-oriented concepts. It is obtained by passing the Java SE 7 Programmer I exam (1Z0-803), which tests essential skills such as working with Java data types, using operators and decision constructs, creating and using arrays and loops, applying encapsulation and inheritance principles, and handling exceptions . This certification is designed for individuals who are beginning their Java programming careers or wish to prove they possess the basic skills needed to develop simple Java applications . It also serves as a prerequisite for the more advanced Oracle Certified Professional (OCP) Java SE 7 Programmer certification .
 
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
