@@ -115,6 +115,8 @@ Studying while working professionally connected theory and practice, strengtheni
 
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
+<p align="justify">The Oracle Cloud Infrastructure (OCI) AI Foundations certification </p>
+
 
 
 
