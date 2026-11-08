@@ -129,6 +129,8 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
+<p align="justify">The Oracle Cloud Infrastructure 2025 Generative AI Professional certification is designed for Software Developers, Machine Learning/AI Engineers, and Gen AI Professionals. The prerequisite for this course includes a basic understanding of Machine Learning and Deep Learning concepts and experience with Python language. </p>
+
 
 
 
