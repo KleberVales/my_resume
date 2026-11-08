@@ -125,6 +125,8 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Agentic AI Certified Foundations Associate**
 
+<p align="justify">This certification validates skills in building and deploying AI agents. It covers core agent concepts and reasoning patterns (Chain-of-Thought, ReAct), hands-on agent construction with LangChain and the OpenAI Agents SDK, implementation of the Model Context Protocol (MCP), and enterprise deployment using OCI Enterprise AI Agents and Agentic AI features in the Oracle AI Database . It is an entry-level credential suited for developers, AI/ML engineers, and data scientists seeking to demonstrate practical competency in the agentic AI stack.</p>
+
 
 
 
