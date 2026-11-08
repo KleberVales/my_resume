@@ -123,5 +123,9 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 
 
+**Agentic AI Certified Foundations Associate**
+
+
+
 
 
