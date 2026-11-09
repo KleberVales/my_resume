@@ -133,7 +133,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
 
-<p align="justify">The Oracle Cloud Infrastructure 2025 DevOps Professional</p>
+<p align="justify">The Oracle Cloud Infrastructure 2025 DevOps Professional certification is designed for DevOps engineers and developers seeking to demonstrate</p>
 
 
 
