@@ -133,6 +133,8 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
 
+<p align="justify">The Oracle Cloud Infrastructure 2025 DevOps Professional</p>
+
 
 
 
