@@ -138,6 +138,8 @@ who earn this credential are prepared to apply core DevOps principles to acceler
 
 **Scrum Fundamentals Certified (sfc)**
 
+Scrum Fundamentals Certified (SFC) is an entry-level credential offered by SCRUMstudy that provides a foundational understanding of the Scrum framework as defined in the Scrum Body of Knowledge (SBOK® Guide). 
+
 
 
 
