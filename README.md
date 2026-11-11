@@ -121,6 +121,10 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 <p align="justify">The Oracle Certified Associate (OCA) Java SE 7 Programmer certification is an entry-level credential offered by Oracle that validates a candidate's fundamental knowledge of the Java programming language and object-oriented concepts. It is obtained by passing the Java SE 7 Programmer I exam (1Z0-803), which tests essential skills such as working with Java data types, using operators and decision constructs, creating and using arrays and loops, applying encapsulation and inheritance principles, and handling exceptions. This certification is designed for individuals who are beginning their Java programming careers or wish to prove they possess the basic skills needed to develop simple Java applications. It also serves as a prerequisite for the more advanced Oracle Certified Professional (OCP) Java SE 7 Programmer certification.</p>
 
+**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
+
+
+
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
 <p align="justify">The Oracle Cloud Infrastructure (OCI) AI Foundations certification is designed to introduce learners to the fundamental concepts of artificial intelligence (AI) and machine learning (ML), with a specific focus on the practical application of these technologies within the Oracle Cloud Infrastructure. This course is ideal for beginners and provides an accessible entry point for those looking to enhance their understanding of AI and ML without the requirement of prior extensive technical experience.</p>
@@ -134,11 +138,6 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
 <p align="justify">The Oracle Cloud Infrastructure 2025 Generative AI Professional certification is designed for Software Developers, Machine Learning/AI Engineers, and Gen AI Professionals. The prerequisite for this course includes a basic understanding of Machine Learning and Deep Learning concepts and experience with Python language. Individuals who earn this credential have a strong understanding of the Large Language Models (LLMs) and are skilled at using OCI Generative AI Service. They are also familiar with techniques such as Retrieval-Augmented Generation, Semantic Search, Vector database, and LangChain, to build, trace, evaluate, and deploy LLM applications.</p>
-
-**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
-
-<p align="justify">The Oracle Cloud Infrastructure 2025 DevOps Professional certification is designed for DevOps engineers and developers seeking to demonstrate expertise in streamlining workflows on OCI. It validates skills across the DevOps lifecycle, including application development and testing, security implementation, and seamless deployment using OCI's native capabilities. Individuals 
-who earn this credential are prepared to apply core DevOps principles to accelerate delivery and improve operational efficiency in cloud environments.</p>
 
 **Scrum Fundamentals Certified (sfc)**
 
