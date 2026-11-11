@@ -52,7 +52,9 @@ Automation and inventory control in stores
 
 **Microservices Evolution**
 
-<p align="justify">Smart Sales Store is designed to evolve toward a microservices architecture, where each business capability can become an independent service. The repository structure includes modules for API Gateway, authentication, users, customers, products, inventory, orders, payments, sales, notifications, reports, server, and configuration server. Each service can own its own data and business rules, reducing coupling between bounded contexts.</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Smart Sales Store is designed to evolve toward a microservices architecture, where each business capability can become an independent service. The repository structure includes modules for API Gateway, authentication, users, customers, products, inventory, orders, payments, sales, notifications, reports, server, and configuration server. Each service can own its own data and business rules, reducing coupling between bounded contexts.
+</p>
 
 **Planned Capabilities**
 
