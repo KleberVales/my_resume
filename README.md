@@ -167,7 +167,9 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
-<p align="justify">The Oracle Cloud Infrastructure (OCI) AI Foundations certification is designed to introduce learners to the fundamental concepts of artificial intelligence (AI) and machine learning (ML), with a specific focus on the practical application of these technologies within the Oracle Cloud Infrastructure. This course is ideal for beginners and provides an accessible entry point for those looking to enhance their understanding of AI and ML without the requirement of prior extensive technical experience.</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The Oracle Cloud Infrastructure (OCI) AI Foundations certification is designed to introduce learners to the fundamental concepts of artificial intelligence (AI) and machine learning (ML), with a specific focus on the practical application of these technologies within the Oracle Cloud Infrastructure. This course is ideal for beginners and provides an accessible entry point for those looking to enhance their understanding of AI and ML without the requirement of prior extensive technical experience.
+</p>
 
 **Agentic AI Certified Foundations Associate**
 
