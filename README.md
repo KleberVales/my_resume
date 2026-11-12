@@ -137,7 +137,9 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Postgraduate in Web Software Development**
 
-<p align="justify">I started this postgraduate program in 2024, while working as a Java Developer, which let me apply what I learned directly to real projects. The program deepened my knowledge of modern web application development, covering software architecture, backend and frontend integration, databases, and good engineering practices for building scalable, maintainable systems.</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; I started this postgraduate program in 2024, while working as a Java Developer, which let me apply what I learned directly to real projects. The program deepened my knowledge of modern web application development, covering software architecture, backend and frontend integration, databases, and good engineering practices for building scalable, maintainable systems.
+</p>
 
 <p align="justify">Studying while working professionally connected theory and practice, strengthening my skills in clean architecture, REST APIs, and cloud-oriented development. It also supported the growth reflected in my 2025 certifications and in personal projects like Smart Sales Store and Home Data Platform.</p>
 
