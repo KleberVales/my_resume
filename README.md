@@ -71,7 +71,8 @@ Automation and inventory control in stores
 </p>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; The project combines backend development, data persistence, cloud storage, IoT integration, and data visualization to explore how modern software architectures can transform raw sensor readings into useful insights.</p>
+&nbsp;&nbsp;&nbsp;&nbsp; The project combines backend development, data persistence, cloud storage, IoT integration, and data visualization to explore how modern software architectures can transform raw sensor readings into useful insights.
+</p>
 
 <img width="600" height="382" alt="yyy" src="https://github.com/user-attachments/assets/a6ad1b08-b5b3-4c98-bb06-6e9edbc924c4" />
 
@@ -93,7 +94,9 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Dashboard and data visualization**
 
-<p align="justify">The dashboard is intended to be the main entry point for exploring home data. Through charts, summary indicators, and historical views, users can gain a clearer understanding of environmental conditions and energy usage. The React interface and Spring Boot API provide a separation between presentation and business logic, supporting a modular approach to future development.</p> 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The dashboard is intended to be the main entry point for exploring home data. Through charts, summary indicators, and historical views, users can gain a clearer understanding of environmental conditions and energy usage. The React interface and Spring Boot API provide a separation between presentation and business logic, supporting a modular approach to future development.
+</p> 
 
 <img width="600" height="382" alt="rrr" src="https://github.com/user-attachments/assets/639e676a-58f8-49c4-8bfc-83204e3c5725" />  
 
