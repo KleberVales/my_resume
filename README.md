@@ -110,7 +110,9 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Architecture and Technology Stack**
 
-<p align="justify">The backend is built with Java 21 and Spring Boot, exposing REST APIs and organizing business logic into a modular service. PostgreSQL provides relational data persistence, while the React frontend is intended to provide dashboards and data visualization. The project also explores AWS integration for cloud storage and IoT device connectivity.</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The backend is built with Java 21 and Spring Boot, exposing REST APIs and organizing business logic into a modular service. PostgreSQL provides relational data persistence, while the React frontend is intended to provide dashboards and data visualization. The project also explores AWS integration for cloud storage and IoT device connectivity.
+</p>
 
 **Backend Engineering and Deployment**
 
