@@ -71,7 +71,7 @@ Automation and inventory control in stores
 </p>
 
 <p align="justify">
-The project combines backend development, data persistence, cloud storage, IoT integration, and data visualization to explore how modern software architectures can transform raw sensor readings into useful insights.</p>
+&nbsp;&nbsp;&nbsp;&nbsp; The project combines backend development, data persistence, cloud storage, IoT integration, and data visualization to explore how modern software architectures can transform raw sensor readings into useful insights.</p>
 
 <img width="600" height="382" alt="yyy" src="https://github.com/user-attachments/assets/a6ad1b08-b5b3-4c98-bb06-6e9edbc924c4" />
 
