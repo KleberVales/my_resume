@@ -142,18 +142,16 @@
       <p align="justify>
         The application is built using Java 21 and Spring Boot 3.2.4, with a Gradle multi-module structure that allows new services to be added independently. 
         The current implementation includes a User Service responsible for user-related operations, utilizing Spring Web for REST API development, Spring Data JPA 
-        for persistence, and PostgreSQL as the relational database. The project employs Lombok for boilerplate reduction and JUnit 5 for automated testing.
-              
+        for persistence, and PostgreSQL as the relational database. The project employs Lombok for boilerplate reduction and JUnit 5 for automated testing.      
       </P>
 
       <H3>Microservices Evolution</H3>
 
       <p align="justify>
         Smart Sales Store is designed to evolve toward a microservices architecture, where each business capability can become an independent service. The repository 
-        structure includes modules for API Gateway, authentication, users, customers, products, inventory, orders,
+        structure includes modules for API Gateway, authentication, users, customers, products, inventory, orders, payments, sales, notifications, reports, server, and 
+        configuration server. Each service can own its own data and business rules, reducing coupling between bounded contexts.
       </P>
-
-           
 
     </div>
 
