@@ -177,7 +177,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 &nbsp;&nbsp;&nbsp;&nbsp; This certification validates skills in building and deploying AI agents. It covers core agent concepts and reasoning patterns (Chain-of-Thought, ReAct), hands-on agent construction with LangChain and the OpenAI Agents SDK, implementation of the Model Context Protocol (MCP), and enterprise deployment using OCI Enterprise AI Agents and Agentic AI features in the Oracle AI Database . It is an entry-level credential suited for developers, AI/ML engineers, and data scientists seeking to demonstrate practical competency in the agentic AI stack.
 </p>
 
-**Scrum Fundamentals Certified (sfc)**
+**Scrum Fundamentals Certified (SFC)**
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Scrum Fundamentals Certified (SFC) is an entry-level credential offered by SCRUMstudy that provides a foundational understanding of the Scrum framework as defined in the Scrum Body of Knowledge (SBOK® Guide). It is designed for individuals with no prior Scrum experience and covers essential concepts including the core roles of Scrum Master, Product Owner, and Development Team, as well as key events and artifacts such as Sprint Planning, Daily Scrum, Product Backlog, and Sprint Backlog. The certification requires passing a 40-question multiple-choice exam, which is available free of charge through SCRUMstudy's online platform or instructor-led webinars. By validating basic knowledge of Scrum principles, iterative development, and Agile project management practices, SFC serves as a starting point for professionals seeking to contribute effectively to Scrum teams or pursue more advanced Agile certifications.
