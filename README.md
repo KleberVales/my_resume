@@ -172,6 +172,7 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 <li>Understanding OCI Identity and Access Management (IAM), including Identity Domains, Users, Groups, Policies, Compartments, Dynamic Groups, and Advanced Policies</li> 
 <li>Designing and configuring OCI Virtual Cloud Networks (VCN), including IP management, connectivity options, Load Balancers, DNS management, and Network Command Center services</li>  
 
+
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
 <p align="justify">
