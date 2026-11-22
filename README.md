@@ -167,6 +167,8 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Cloud Infrastructure Certified Architect Associate**
 
+The Oracle Cloud Infrastructure Architect Associate
+
 **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 
 <p align="justify">
