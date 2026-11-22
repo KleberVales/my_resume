@@ -167,7 +167,9 @@ Green Custard & Tiger Data | AWS IoT Migration & Real-Time Analytics
 
 **Oracle Cloud Infrastructure Certified Architect Associate**
 
-&nbsp;&nbsp;&nbsp;&nbsp; The Oracle Cloud Infrastructure Architect Associate exam is designed for individuals who possess a strong foundational knowledge of architecting infrastructure using Oracle Cloud Infrastructure (OCI) services. This certification validates a deep understanding of topics such as Identity and Access Management, Networking, Compute & Storage. Key knowledge areas include: 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The Oracle Cloud Infrastructure Architect Associate exam is designed for individuals who possess a strong foundational knowledge of architecting infrastructure using Oracle Cloud Infrastructure (OCI) services. This certification validates a deep understanding of topics such as Identity and Access Management, Networking, Compute & Storage. Key knowledge areas include:
+</p>
 
 Understanding OCI Identity and Access Management (IAM), including Identity Domains, Users, Groups, Policies, Compartments, Dynamic Groups, and Advanced Policies  
 Designing and configuring OCI Virtual Cloud Networks (VCN), including IP management, connectivity options, Load Balancers, DNS management, and Network Command Center services
